@@ -100,7 +100,7 @@ public class BarangView {
                 barangBaru = controller.tambahBarang(nama, kategori, harga, stok, panjang, jenisKabel);
                 break;
             default:
-                barangBaru = controller.tambahBarang(nama, kategori, harga, stok);
+                barangBaru = controller.tambahBarang(nama, kategori, (int) harga, stok);
         }
         System.out.println("Barang berhasil ditambahkan dengan ID: " + barangBaru.getId());
     }

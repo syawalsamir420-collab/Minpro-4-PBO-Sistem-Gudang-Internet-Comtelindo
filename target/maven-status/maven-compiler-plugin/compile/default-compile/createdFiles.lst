@@ -1,3 +1,4 @@
+com\mycompany\gudanginternet\controller\Database.class
 com\mycompany\gudanginternet\main\MainApp.class
 com\mycompany\gudanginternet\model\Barang.class
 com\mycompany\gudanginternet\model\BarangUmum.class
@@ -6,5 +7,6 @@ com\mycompany\gudanginternet\controller\BarangController.class
 com\mycompany\gudanginternet\model\Diskon.class
 com\mycompany\gudanginternet\view\Validator.class
 com\mycompany\gudanginternet\view\BarangView.class
+com\mycompany\gudanginternet\controller\BarangDAO.class
 com\mycompany\gudanginternet\model\KabelJaringan.class
 com\mycompany\gudanginternet\model\PerangkatJaringan.class
